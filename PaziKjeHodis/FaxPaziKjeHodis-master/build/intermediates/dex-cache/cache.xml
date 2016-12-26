@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_358a18fd08bb1523b2f59f6f55ca26a4279a5259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6c5bd929e734655fa36e706a68d549c5af9ef0e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_f5358d43af97304ac73d1f568f3a297bfa857ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_16db995cc38b22b3937037ff7617dcbebd665fca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_a3c8eced54ffb1ff2509f267fedcfaa632cdecfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_b893ee25cd2962f75f8fdc4aa065a7006c181faa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_0d197c3a1b9697c22655751ded1e1148d5bded1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_8d17a3d2018fc0158cdc9eff8d2cb5a87a975fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_a011ead3701a1c0ea80005f8699441a38d320528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_4833ba6b32104d154eef77502a17e03407bcc071/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_daf6a84703df95bc0fe3e942d37622241909efd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e8cfcbb6bdced1177a5a3975bceea0c66064b8">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01bbf9356fed27129d369eb971de9e974e899d7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_ee0cd4e6019b8654c5c3d11534d019c0ce4c3945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_579860b90b08be9348ef825e3f77609d910471a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a8536803b07e126ecac249d0f18a64ff44a88a01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_53f27fc4dfa1def9267d9bea87561941210cce57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ecb5c72bedc35cd454ebb2ca4a7e1915c45b4eb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_d27703269bd5970b8c8153a12e72531b019b7704/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_58accae6c0504bab214d1dc020e511817b435299/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_a69d9c72182e658a6e8b6c30ac85ac61a3d065ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_dbb72c4fe3b19bd75c836a21605ccdfb05bec7ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_354dc2fe82b241366de85153c69ba6a98bc38f78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_cabfc07994e23c12e601631b0c9d3487307f7ba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_944a9ed455fb8cca0407cdb0d33d8448681af944/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_573fdf4693378a0e0a39f7511307eea0b736d19e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_5c05d7bcd7ccdb35fb0ef77b74638a77bb6d853a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_5ed2e9dcf8e8a9600f3484850f4b627585fd5444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_a613b8d8b029753c6ec99ccdddf16543c120854e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_a3dc0e0d7ce81cd09c7c39190d7dd1bfab5d434a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_e3782b2109b830a6aa6028e957cce2209dc8dcdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_e15156c3fd91379bb0ac14e883ced4dbc364b876/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_901a17881d48b8cb8661f63eee12baa93208861b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_ed0a022a734fe7db0b811485d3d1f66e9426f68f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_15029d501c8fc80e7a2b34f25e35f2aa75fad68b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_e9b34b1053e070918f0029fac973a15f4658ef42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_63db7a7c72334595ef5d6b488e90867cd1095b64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_2988fcd4fdc1914ac55f673f8dd4cb14711a9787/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8e6adc17131ff9e8ac02d778c4092cd9652fa569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_292db44b6e54128ae54837200b08cddaf38626f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_925db6a037fc79e1022c2d1755e80eaf9f1bc535/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_2e383133361805a76dc20bf8cea91f7d30b28809/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03cfa34c2295b35295bb3cb07bbb61e4ec95eca3">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_56ad63ae7422c3cf114fab044d4cc4526d96c4ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_7e6a87ad279a6cdaa128b19a8378c5dc970d3de5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_62572960f5efc96484b34879e7023c54e57a12fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_28443cb30a2e8f8ce704a22aa5a69f96919ea85f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_d280e6064b92d2dfff7e7e9a1947d9923c748015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_58c6fa60600dae27bf3fd9abae34a14ab1323250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_b46ad2eba1cacb12854b8f1cdf77d8b68358d2c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_c82036462fa69a4800fe9629f14cd5a5396575fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_68e14590c60890c600c3f8294fa9fcd7498fe1dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_831eebbdebac045be9ec9dd79dd3259048058d8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_a1184fdf0689271d501f327b046d0ee32b53bdf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_f7666591a4bd0a5a16817506808ca490509317ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_8ba314887e6250c6118f24c41497b858ab32bca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_6730f57b67a2785f3983a2c5c605c389c85d8b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_1975d9dbcf48fcfa3af96b1c285617d0124aec8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_0d7299ed773de96e34d155cc2eedd36af7fca86c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d12dbc886b4e87c4f1a33e586d40ca3ba2eac65b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_1916420caa8ed24116ce5e3ecbb71523a4472351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_f5effb6cdead20fb2c79bfc9f8ebebd85468927b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_9977415b7513fa264510fe59c3f1c401de41f5a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_e4c3442dd5cf6e3c7c217df12fa66b5feb6ecd61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_f76ebb389673cd804df431471108aaaccb9efa72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_855818edbbdd028afcb01f885aa3f14a0e468731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_54f6e034bade7e54962d00ca07b7b8891afc4c37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_82f0832928413f91a4e53bcd3bf1ed8cdba52dbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_be6eb8bd73e2a7fc60bebed4bfa9db33bdfc5189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_7e459dd9eca36341eeea191151dd64d52f2acb8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_c15ecfdbbcbeec50e19604d18bc9790d7f1c5ccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_1e6cf88b00c3158921c9dc026ecfe8158d9a4552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.18.0_4d7c04212e450f0161ec840d3818600b24dfe760/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_0fcc182e33c2cef8d4c1e032693baaaec3409a39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_c002016a411f15ac5240d91616696e1d2df6497f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_a9a250837d8c5be71d5face7bd1e215412094866/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_2803b9970eafa6f7e2e84150924c5c2f316429ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_0c5cc6bb3a62cdf7f5c619ca1b17693f7cd38af5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_7b0bd60fa375dd15d9b738f8dd2ebe78f50b5087/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_0b80a4b7386d33c37feb96703cce6d72e06138a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_8fb56fc5c0a93e1754f4b2d3624bf5c625ae9eee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_92c5c1009460acbc32360ae54be92c5f57a52909/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_27f2ea5b107f3bb4919618f73bcfba8e516645ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_f399d95e48155a501b7254a8b52c9c1ac351409c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_27d5037896d1b19847286bd399eca76611d3960d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nejcvesel/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/nejcvesel/Documents/Programming/Pazi kje hodis /FaxPaziKjeHodis-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_61a2a1edfec3f718b32e581ed70b41f3d060a30d/classes.dex" />
+    </item>
+
+</items>
